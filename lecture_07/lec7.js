@@ -11,8 +11,9 @@ console.log(squareRoot);
 const powerMethod=Math.pow(3,2)
 console.log(powerMethod);
 
+console.log("Hello this is the second change");
 
-console.log("Hello world");
+
 
 
 
